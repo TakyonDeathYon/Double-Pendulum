@@ -152,6 +152,7 @@ public class Game1 : Core
     private List<Vector2> _end_path = new List<Vector2>();
     KeyboardState currentKeyboardState;
     KeyboardState previousKeyboardState;
+    private int _speed = 1;
 
 
     public Game1() : base("Double Pendulum", 1280, 720, false)
@@ -198,21 +199,24 @@ public class Game1 : Core
         if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
             Exit();
 
-        // Updateds the rotations and velocities of both of the rods
-        _top_rod.UpdateRotation((float)gameTime.ElapsedGameTime.TotalSeconds, _bottom_rod);
+        // adds loop for increasing the speed of the simulation
+        for (int i = 0; i < _speed; i++)
+        {
+            // Updateds the rotations and velocities of both of the rods
+            _top_rod.UpdateRotation((float)gameTime.ElapsedGameTime.TotalSeconds, _bottom_rod);
 
-        // Centers the first rod on the screen
-        _top_rod.origin_pos = new Vector2(Window.ClientBounds.Width * 0.5f,
-                                          Window.ClientBounds.Height * 0.5f);
+            // Centers the first rod on the screen
+            _top_rod.origin_pos = new Vector2(Window.ClientBounds.Width * 0.5f,
+                                            Window.ClientBounds.Height * 0.5f);
 
-        // Attaches the second rod to the first
-        Vector2 _top_rod_end = _top_rod.FindRodEnd(_logo.Height);
-        _bottom_rod.origin_pos = _top_rod_end;
+            // Attaches the second rod to the first
+            Vector2 _top_rod_end = _top_rod.FindRodEnd(_logo.Height);
+            _bottom_rod.origin_pos = _top_rod_end;
 
-        // Records the path of the end of the second rod
-        _end_path.Add(_bottom_rod.FindRodEnd(_logo.Height) - new Vector2(Window.ClientBounds.Width * 0.5f,
-                                          Window.ClientBounds.Height * 0.5f));
-
+            // Records the path of the end of the second rod
+            _end_path.Add(_bottom_rod.FindRodEnd(_logo.Height) - new Vector2(Window.ClientBounds.Width * 0.5f,
+                                            Window.ClientBounds.Height * 0.5f));
+        }
         // Gets the state of the keyboard to listen to key presses
         currentKeyboardState = Keyboard.GetState();
 
@@ -241,6 +245,15 @@ public class Game1 : Core
         {
             _top_rod.angular_velocity = _top_rod.angular_velocity - 0.1f * _top_rod.angular_velocity;
            
+        }
+
+        if (currentKeyboardState.IsKeyDown(Keys.W))
+        {
+            _speed++;
+        }
+        if (currentKeyboardState.IsKeyDown(Keys.S) && _speed > 1)
+        {
+            _speed--;
         }
 
 

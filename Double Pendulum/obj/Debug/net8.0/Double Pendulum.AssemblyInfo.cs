@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Double Pendulum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f234d5b452c2fbf23f0098529785b26c2aa08322")]
 [assembly: System.Reflection.AssemblyProductAttribute("Double Pendulum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Double Pendulum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

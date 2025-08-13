@@ -33,3 +33,4 @@ C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\ne
 C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Library.pdb
 C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Content\images\logo.xnb
 C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Content\images\blacksquare.xnb
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.sourcelink.json
