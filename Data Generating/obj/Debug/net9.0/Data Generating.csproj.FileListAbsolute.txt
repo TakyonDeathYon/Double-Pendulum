@@ -1,0 +1,15 @@
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\bin\Debug\net9.0\Data Generating.exe
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\bin\Debug\net9.0\Data Generating.deps.json
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\bin\Debug\net9.0\Data Generating.runtimeconfig.json
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\bin\Debug\net9.0\Data Generating.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\bin\Debug\net9.0\Data Generating.pdb
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\Data Generating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\Data Generating.AssemblyInfoInputs.cache
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\Data Generating.AssemblyInfo.cs
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\Data Generating.csproj.CoreCompileInputs.cache
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\Data Generating.sourcelink.json
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\Data Generating.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\refint\Data Generating.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\Data Generating.pdb
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\Data Generating.genruntimeconfig.cache
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Data Generating\obj\Debug\net9.0\ref\Data Generating.dll
