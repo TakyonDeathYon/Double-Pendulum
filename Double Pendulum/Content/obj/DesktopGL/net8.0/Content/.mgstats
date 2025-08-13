@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nszbr/Documents/VS Code/C#/Double Pendulum/Double Pendulum/Content/../../../../../../Downloads/blacksquare.jpg","C:/Users/nszbr/Documents/VS Code/C#/Double Pendulum/Double Pendulum/Content/bin/DesktopGL/Content/images/blacksquare.xnb","TextureProcessor","Texture2DContent",39480,4665685,0.2668561
+"C:/Users/nszbr/Documents/VS Code/C#/Double Pendulum/Double Pendulum/Content/images/logo.png","C:/Users/nszbr/Documents/VS Code/C#/Double Pendulum/Double Pendulum/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.1580348

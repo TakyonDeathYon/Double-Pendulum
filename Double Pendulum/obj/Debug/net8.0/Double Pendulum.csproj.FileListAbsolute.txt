@@ -1,0 +1,35 @@
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Double Pendulum.exe
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Double Pendulum.deps.json
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Double Pendulum.runtimeconfig.json
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Double Pendulum.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Double Pendulum.pdb
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\NVorbis.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.csproj.AssemblyReference.cache
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.AssemblyInfoInputs.cache
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.AssemblyInfo.cs
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double P.77CAA3B5.Up2Date
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\refint\Double Pendulum.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.pdb
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\Double Pendulum.genruntimeconfig.cache
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\obj\Debug\net8.0\ref\Double Pendulum.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Library.dll
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Library.pdb
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Content\images\logo.xnb
+C:\Users\nszbr\Documents\VS Code\C#\Double Pendulum\Double Pendulum\bin\Debug\net8.0\Content\images\blacksquare.xnb
